@@ -1,6 +1,5 @@
 # PowerBI-Dashboard---stock_analysis
 
-```markdown
 # Stock Analysis Dashboard
 
 Welcome to the Stock Analysis Dashboard repository. This project leverages PowerBI to visualize and analyze stock market data. The dashboard includes various insights and trends to help users make informed decisions based on historical stock performance.
